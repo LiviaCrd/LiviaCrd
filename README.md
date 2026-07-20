@@ -9,7 +9,7 @@ Atualmente estou aprofundando meus conhecimentos em **Java**, desenvolvimento **
 - Java
 - Spring Boot
 - SQL
-- HTML5
+- HTML
 - CSS
 - JavaScript
 - Git & GitHub
