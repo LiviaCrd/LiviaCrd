@@ -20,7 +20,7 @@ Aqui você encontrará projetos desenvolvidos para colocar em prática conceitos
 
 ## Objetivos
 
-Construir aplicações cada vez mais completas                                                                                 Evoluir constantemente através da prática                                                                                    Aprender boas práticas de desenvolvimento                                                                                    Contribuir com projetos Open Source                                                                                          Atuar como Desenvolvedora de Software
+Construir aplicações cada vez mais completas, evoluindo constantemente através da prática e aprender boas práticas de desenvolvimento para contribuir com projetos e atuar como Desenvolvedora de Software.
 
 ## Tecnologias
 
